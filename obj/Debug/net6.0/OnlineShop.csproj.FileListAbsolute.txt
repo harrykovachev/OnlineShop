@@ -1,0 +1,7 @@
+C:\Users\harry\Downloads\onlineshop-master (1)\onlineshop-master\OnlineShop\obj\Debug\net6.0\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\harry\Downloads\onlineshop-master (1)\onlineshop-master\OnlineShop\obj\Debug\net6.0\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Downloads\onlineshop-master (1)\onlineshop-master\OnlineShop\obj\Debug\net6.0\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\harry\Downloads\onlineshop-master (1)\onlineshop-master\OnlineShop\obj\Debug\net6.0\OnlineShop.AssemblyInfo.cs
+C:\Users\harry\Downloads\onlineshop-master (1)\onlineshop-master\OnlineShop\obj\Debug\net6.0\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\harry\Downloads\onlineshop-master (1)\onlineshop-master\OnlineShop\obj\Debug\net6.0\OnlineShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harry\Downloads\onlineshop-master (1)\onlineshop-master\OnlineShop\obj\Debug\net6.0\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
